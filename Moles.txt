@@ -1,0 +1,6 @@
+Hello, this is mole 1.
+This is line 2 with a number: 42.
+Another molecule on line 3.
+Appending line 4: More content here.
+Appending line 5 with a number: 100.
+Final line 6, just a message.
